@@ -1,0 +1,37 @@
+Intent,Response,Relevance,,Index,,,,,,,,,,,
+I am not able to get pregnant. I need help.,How long has it been since you started trying to get pregnant?,1,,Pregnancy Questions,,,,,,,,,,,
+1 year or less,"If you have just started trying to get pregnant, then there are a few things that could help with your pregnancy and a very important thing is to have sex on your most fertile days. Do you want to know the days on which your chances of pregnancy are higher?",1,,Fertility Qs,,,,,,Index,,,,,
+"Sure, tell me","It is important to map your menstrual cycle every time to find the right time to get pregnant. Ovulation period usually occurs between 12 to 16 days after the previous menstrual cycle and the 4 to 5 days before ovulation is your most fertile window. The ovulation period differs for each woman and monitoring and noting down your ovulation cycle for a 3 to 4 consecutive periods will give you a good idea. Having sex on these days could increase the chances of pregnancy by a great margin. Are you having sex on your fertile window but still haven’t got pregnant?
+",1,,General Hygeine Qs,,,,,,Pregnancy Questions,,,,,
+Yes,"If you are already having sex on your fertile days, then there are a few points that may hinder your pregnancy. These include getting rid of alcohol and smoking, maintaining a normal body weight, apart from this, you can also try, eating healthy food, taking prenatal vitamins",1,,,,,,,,Fertility Qs,,,,,
+I want to know more about maintaining a normal weight,Maintaining a normal body weight will help with pregnancy even if you have PCOD.,1,,,,,,,,General Hygeine Qs,,,,,
+,,,,,,,,,,,,,,,
+I am not able to get pregnant.I need help.,How long has it been since you started trying to get pregnant?,0.5,,,,,,,,,,,,,
+More than 2 years,"If you are trying for a long time and still haven’t got pregnant, then you or your partner may have fertility issues. Both of you need to go for some tests to find out what the issue is. For men, a physical examination and a sperm test will be conducted.
+For women, physical examination, Ultrasound test, X Ray, blood test, urine test and laparoscopy will be conducted to know the fertility problems.
+After diagnosis, you may go for the related fertility treatments.
+",0.5,,,,,,,,,,,,,
+What kind of infertility issues do men have?,"Male infertility issues may be due to low sperm count or mobility, infections in reproductive organs or hormonal imbalance. Most of the issues with male infertility are linked to stress, weight, alcohol and smoking.",0.5,,,,,,,,,,,,,0.5
+What kind of infertility issues do women have?,"There are many infertility issues including Endometriosis, Fibroids, PCOD, and Tubal blockages.  ",0.5,,,,,,,,,,,,,
+What is PCOD?,"PCOD/PCOS is a condition where high levels of the hormone, androgen, interfere with the ovarian follicles and release of eggs during ovulation. Regular exercises and healthy diet can bring the hormones in control.",1,,,,,,,,,,,,,
+What is Endometriosis?,Endometriosis is a condition where the lining of abdomen goes through changes leading to pain and discomfort.,1,,,,,,,,,,,,,
+What are Infections?,"A previous infection in the urinary system like the kidney, bladder or urethra or conditions like gonorrhea or chlamydia may lead to fertility issues. It is important to check with a doctor and take proper medications for it.",0.5,,,,,,,,,,,,,
+What are Tubal blockages?,Blockage of the fallopian tubes may stop the sperm from fertilizing the egg making it difficult to get pregnant. This blockage can be detected by HSG test where a dye is passed through the uterus to find any blocks. This can be removed by surgery.,0.5,,,,,,,,,,,,,
+What are Fibroids?,"Fibroids are non-cancerous growth inside the uterus that hinders the sperm from reaching the egg. Through CT Scan, Laparoscopy or Ultrasound, this can be diagnosed and should be removed surgically.",1,,,,,,,,,,,,,
+What are Autoimmune disorders?,The body’s immune system may attack the normal tissues leading to issues in the reproductive organs. This can be treated by proper medication.,0.5,,,,,,,,,,,,,
+How do i know if i am having fertility issues?,How long has it been since you started trying to get pregnant?,0.5,,,,,,,,,,,,,
+I want to know about my Fertility Treatment Options,"There are many fertility treatment options that you can explore, including Assisted Reproductive Technology (ARF), Adoption and some other treatment options. What Do You Want To Know About?",0,,,,,,,,,,,,,
+What is Assisted Reproductive Technology?,"Assisted Reproductive Technology (ART) in which the sperm and egg are handled for better fertilization. Usually IUI will be the preferred fertility treatment and if IUI doesn’t bring results, the doctor will recommend IVF.
+What do you want to know about?
+",0,,,,,,,,,,,,,
+What is Adoption?,"If you or partner have fertility issues that wasn’t resolved after going through all the treatment options, then adopting a child will be the most fulfilling. Visit the government website for adoption (CARA) or visit your nearest adoption agency for more details.",0,,,,,,,,,,,,,
+What are my Alternate Treatment Options?,"Apart from the ART treatments, there are several non invasive treatment options for both male and female infertility issues including Homeopathy, Yoga, and Ayurveda. The solution for fertility issues is not a single treatment. A combination of treatments will help to get pregnant.",0,,,,,,,,,,,,,
+What is Homeopathy?,Some fertility issues can be treated by homeopathy treatment taken religiously for a few months. Connect with us now for more guidance for fertility treatment.,0.5,,,,,,,,,,,,,
+What is Yoga?,There are certain yoga techniques that have been found to boost the fertility and resolve any reproductive issues. It also relieves stress which is a major basis for infertility problems.Speak with a specialist to know more about how yoga can help you.,0.5,,,,,,,,,,,,,
+What is Ayurveda?,"Ayurvedic medicines and ayurvedic treatments along with yoga can help greatly help with restoring both ,male and female fertility.",0.5,,,,,,,,,,,,,
+What disturbs Female Fertility?,There are many conditions that could disturb a woman’s fertility. If you have been diagnosed for any fertility issues then you should visit a doctor.,0.5,,,,,,,,,,,,,
+I haven’t yet visited the doctor to test my fertility. How can I know if I have infertility issues?,"Is your menstrual cycle irregular?
+Do you consume alcohol or smoke tobacco?
+Are you overweight or underweight?
+If your answer ‘yes’ to any of the questions above, then you may probably have some fertility issues.It is high time to contact a fertility specialist to check out. Do you want an online consultation with a fertility specialist?
+",0.5,,,,,,,,,,,,,
