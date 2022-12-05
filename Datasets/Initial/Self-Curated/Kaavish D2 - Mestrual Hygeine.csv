@@ -1,5 +1,5 @@
-Intent,Response,Relevance,,Index
-Hi Mai,Hello! How are you feeling today?,1,,General Statements
+"Hello! I am Mai. I have knowledge about the menstrual cycle, how to manage it properly, how to manage hygiene, as well as knowledge about menstrual products. Feel free to ask me questions about any of these topics. After sending a question, wait for the response before sending your next question. I am still learning, so please be patient with me.",Response,Relevance,,Index
+Hi Mai,"Hello! I am Mai. I have knowledge about the menstrual cycle, how to manage it properly, how to manage hygiene, as well as knowledge about menstrual products. Feel free to ask me questions about any of these topics. After sending a question, wait for the response before sending your next question. I am still learning, so please be patient with me.",1,,General Statements
 I feel anxious,Why do you feel that way?,1,,Period Specific Qs
 Because I dont understand periods,"I understand why you feel that way. Luckily, I am quite knowledgeable in menstruation. Feel free to ask me any questions you may have, I am here for you. ",1,,General Hygeine Qs
 What is a period?,"A period is the part of the menstrual cycle when a woman bleeds from her vagina for a few days. For most women this happens every 28 days. but it's common for periods to be more or less frequent than this, ranging from day 21 to day 40 of their menstrual cycle.",1,,Social Issues with Periods
