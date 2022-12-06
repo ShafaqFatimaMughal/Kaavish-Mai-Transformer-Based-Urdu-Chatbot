@@ -1,5 +1,5 @@
 Intent,Response,Relevance,,Index
-Hello,"Hello! I am Mai. I have knowledge about the menstrual cycle, how to manage it properly, how to manage hygiene, as well as knowledge about menstrual products. Feel free to ask me questions about any of these topics. After sending a question, wait for the response before sending your next question. I am still learning, so please be patient with me.",1,,General Qs
+Hello,Hi! How can I help you today?,1,,General Qs
 I feel scared,Why do you feel scared?,1,,Period Qs
 I do not know what is happening to me,Can you describe what is happening?,1,,
 I am bleeding,Where are you bleeding from?,1,,
@@ -36,8 +36,8 @@ Can I exercise during periods,"Of course! You can take on whatever sport you lov
 Can I use a cloth for menstruation,We don’t recommend using kapra but if using a cloth pad hygienically is okay.,1,,
 I am getting cramps,Menstrual cramps are throbbing or cramping pains in the lower abdomen. Most women experience cramps just before or during the early days of their period.,,,
 I have cramps,Menstrual cramps are throbbing or cramping pains in the lower abdomen. Most women experience cramps just before or during the early days of their period.,,,
-Hi Mai,"Hello! I am Mai. I have knowledge about the menstrual cycle, how to manage it properly, how to manage hygiene, as well as knowledge about menstrual products. Feel free to ask me questions about any of these topics. After sending a question, wait for the response before sending your next question. I am still learning, so please be patient with me.",,,
-"Hello Mai, hope you are well","Hello! I am well, thank you. Do you have any questions for me?",,,
+Hi Mai,Hello! How can I be of service?,,,
+"Hello Mai, hope you are well","Hello! I am well, thank you. How can I help you today?",,,
 Yes,Feel free to ask me any questions about menstruation.,,,
 No,Very well then. I am here whenever you have a question.,,,
 I got my period,"This is completely normal and every woman gets periods. If you have any questions regarding periods, feel free to ask me.",,,
@@ -65,8 +65,8 @@ I feel bloated,Abdominal bloating occurs when the abdomen feels tight or full. T
 What is bloating?,Abdominal bloating occurs when the abdomen feels tight or full. This may cause the area to appear larger. The abdomen may feel hard or tight to the touch. Bloating usually occurs right before or during the early days of a period.,,,
 I feel irritated,"You may be experiencing pre-menstrual syndrome or PMS. PMS occurs right before a women gets her period. PMS has the following symptoms inlcuding irritation, mood swings, bloating, cramps, constipation, diarrhoea, acne, vaginal discharge, headaches, food cravings, moods swings, and tender breasts",,,
 I feel sad,"You may be experiencing pre-menstrual syndrome or PMS. PMS occurs right before a women gets her period. PMS has the following symptoms inlcuding irritation, mood swings, bloating, cramps, constipation, diarrhoea, acne, vaginal discharge, headaches, food cravings, moods swings, and tender breasts",,,
-Good morning,"Good morning! I am Mai. I have knowledge about the menstrual cycle, how to manage it properly, how to manage hygiene, as well as knowledge about menstrual products. Feel free to ask me questions about any of these topics. After sending a question, wait for the response before sending your next question. I am still learning, so please be patient with me.",,,
+Good morning,Good morning! I am Mai. How can I help you today?,,,
 Good night,"Good night. It was nice talking to you, see you later!",,,
-Hey Mai,"Hello! I am Mai. I have knowledge about the menstrual cycle, how to manage it properly, how to manage hygiene, as well as knowledge about menstrual products. Feel free to ask me questions about any of these topics. After sending a question, wait for the response before sending your next question. I am still learning, so please be patient with me.",,,
-Hey,"Hello! I am Mai. I have knowledge about the menstrual cycle, how to manage it properly, how to manage hygiene, as well as knowledge about menstrual products. Feel free to ask me questions about any of these topics. After sending a question, wait for the response before sending your next question. I am still learning, so please be patient with me.",,,
-Mai,"Hello! I am Mai. I have knowledge about the menstrual cycle, how to manage it properly, how to manage hygiene, as well as knowledge about menstrual products. Feel free to ask me questions about any of these topics. After sending a question, wait for the response before sending your next question. I am still learning, so please be patient with me.",,,
+Hey Mai,Hello! How can I help you today?,,,
+Hey,Hello! How can I help you today?,,,
+Mai,Hello! I am Mai. How can I help you today?,,,
